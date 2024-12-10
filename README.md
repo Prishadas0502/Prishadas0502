@@ -1,4 +1,3 @@
-Hi there 👋
-My name is Prisha Das. I am currently a 4th Year Student who is pursuing her BE degree in CSE. 
-I wanna work as a Web Developer.
-I have made many projects related to the same field.
+Motivated MERN Full Stack Developer with a strong foundation in web development and a passion for creating efficient, user-friendly applications. Recently completed a B.Tech, equipping me with comprehensive knowledge of JavaScript, React, Node.js, Express, and MongoDB.
+Possess excellent communication and interpersonal skills, enabling seamless collaboration in team environments and effective problem-solving in individual roles. Quick to adapt to new technologies and workflows, demonstrating a proactive and resourceful approach to challenges.
+Eager to contribute technical expertise and innovative ideas to enhance business performance, optimize processes, and deliver high-quality software solutions that meet user and organizational needs. Driven by a commitment to continuous learning and professional growth in the ever-evolving tech landscape.
